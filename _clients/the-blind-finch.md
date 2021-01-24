@@ -9,6 +9,6 @@ The Blind Finch is a restaurant & gin bar located in Ohakune. I was asked to des
 
 ![](/uploads/dsc-0548-1.JPG){: width="4406" height="2938"}
 
-I also designed their menu boards and business cards to fit in with their branding and style.
+I also designed their menu boards, flyers, baseball caps and business cards to fit in with their branding and style.
 
 &nbsp;
