@@ -2,7 +2,7 @@
 layout: default
 ---
 <section class="hero diagonal">
-	<div class="container" {% if page.full_width %}style="max-width: 100%; margin-bottom: 100px"{% endif %}>
+	<div class="container" {% if page.full_width %}style="max-width: 100%"{% endif %}>
 		{% if page.heading %}
 			<h2>{{ page.heading }}</h2>
 		{% elsif page.title %}
@@ -13,5 +13,3 @@ layout: default
 		{% endif %}
 	</div>
 </section>
-
-{{ content }}
