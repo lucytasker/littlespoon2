@@ -40,9 +40,7 @@
 				<div class="footer-columns">
 					{% for column in site.data.footer %}
 						<ul class="footer-links">
-							<li>
-								<h2>{{ column.title }}</h2>
-							</li>
+							<h2>{{ column.title }}</h2>
 							{% for link in column.links %}
 								<li>
 									<a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
@@ -59,9 +57,6 @@
 
 					<ul class="footer-links">
 						<h2>{{ site.data.company.title }}</h2>
-						<li>
-							<h2>{{ site.data.company.title }}</h2>
-						</li>
 						<li>{{ site.data.company.description }}</li>
 					</ul>
 				</div>
