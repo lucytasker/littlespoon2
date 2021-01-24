@@ -5,17 +5,6 @@ subtitle:
 ---
 
 <section class="diagonal patterned">
-	<div class="container">
-	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong>Manage Staff members</a></p>
-		<ul class="image-grid">
-			{% for member in site.staff_members %}
-				<li>{% include staff-member.html member=member %}</li>
-			{% endfor %}
-		</ul>
-	</div>
-</section>
-
-<section class="diagonal patterned">
 	<div class="container halves">
 		<div>
 			<h3 class="editable">
@@ -37,9 +26,7 @@ subtitle:
 		</div>
 		<div>
 			<ul class="image-grid">
-				{% for client in site.clients limit: 4 %}
-					<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}" /></a></li>
-				{% endfor %}
+					<li><img src="{% include relative-src.html src=client.image_path %}" /></li>
 			</ul>
 		</div>
 	</div>
