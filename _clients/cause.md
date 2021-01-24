@@ -2,7 +2,7 @@
 name: 'Ecrotek Stationary, Brochure & Content Writing'
 subtitle: 'Beekeeping Company Brochure, Business Cards, Website etc.'
 external_url:
-image_path:
+image_path: /uploads/20210125-103416-1.jpg
 ---
 
 Ecrotek is a beekeeping supplies company based in Auckland. I worked with them to facilitate a rebranding and new website launch. They release a 44-page biannual catalogue (shown below), which was designed and formatted by myself. The catalogue also features advertisements, which were also designed by me.&nbsp;
