@@ -30,7 +30,7 @@ title: Little Spoon
 		</div>
 		<div>
 			<ul class="image-grid">
-				{% for client in site.clients limit: 2 %}
+				{% for client in site.clients limit: 6 %}
 					<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}" /></a></li>
 				{% endfor %}
 			</ul>
@@ -39,7 +39,7 @@ title: Little Spoon
 </section>
 
 <section class="diagonal alternate">
-	<div class="container">
+	<div class="container" style="margin-bottom:-80px">
 		<div>
 			<h3 class="editable">
 				Testimonial
