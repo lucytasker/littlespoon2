@@ -1,5 +1,5 @@
 ---
-name: 'Ecrotek Stationary, Brochure & Content Writing'
+name: Ecrotek
 subtitle: 'Stationary, Catalogues & Content Writing'
 external_url:
 image_path: /uploads/20210125-103416-1.jpg
