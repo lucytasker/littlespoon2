@@ -22,13 +22,19 @@ title: Little Spoon
 				Let's get creative.
 			</h3>
 			<p class="editable">
-				I have a proven track record of helping businesses of any size grow and prosper through beautiful design. My focus is in branding and marketing, working both with existing brand guidelines, creating brand guidelines, as well as smaller individual projects.
+				I have a proven track record of helping businesses of any size grow and prosper through beautiful design. My focus is in branding and marketing, working both with existing brand guidelines, creating brand guidelines, as well as smaller individual projects. This dual speciality enables me to produce work for your audience that is going to be effective in reaching your goals.
 			</p>
 			<p class="editable">
 				<a href="/portfolio/">View Full Portfolio &rarr;</a>
 			</p>
 		</div>
-
+		<div>
+			<ul class="image-grid">
+				{% for client in site.clients limit: 4 %}
+					<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}" /></a></li>
+				{% endfor %}
+			</ul>
+		</div>
 	</div>
 </section>
 
