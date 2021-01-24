@@ -3,7 +3,7 @@ layout: default
 ---
 {% assign portfolio = site.pages | where: "path", "portfolio.html" | first %}
 
-<section class="hero diagonal" style="margin-bottom:-140px">
+<section class="hero diagonal">
 	<div class="container">
 		{% if portfolio.heading %}
 		<h2><a href="{{ site.baseurl }}/portfolio/">{{ portfolio.heading }}</a> / {{ page.title | capitalize }}</h2>
@@ -19,6 +19,5 @@ layout: default
 		<div>
 			{{ content }}
 		</div>
-		<p><a href="{{ page.external_url }}">View {{ page.title }} &rarr;</a></p>
 	</div>
 </section>
