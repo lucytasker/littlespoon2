@@ -1,14 +1,12 @@
 ---
-name: The Blind Finch
-subtitle: Restaurant & Bar Collateral
+name: ViteHive
+subtitle: Packaging Design
 external_url:
-image_path: /uploads/dsc-0548.JPG
+image_path: /uploads/vh.jpg
 ---
 
-The Blind Finch is a restaurant & gin bar located in Ohakune. I was asked to design their Cocktail and Gin Menus, you can see these in the images below. The cocktail menu is a vinyl record cover, and the gin menu fits as a label on a gin bottle.
+VitaHive is a range of scientifically researched and formulated bee health and nutrition supplements to deliver stronger and healthier hives. I designed their packaging (shown below) to reflect their clean simple branding.
 
-![](/uploads/dsc-0548-1.JPG){: width="4406" height="2938"}
-
-I also designed their menu boards, flyers, baseball caps and business cards to fit in with their branding and style.
+![](/uploads/vh.jpg){: width="946" height="652"}
 
 &nbsp;
