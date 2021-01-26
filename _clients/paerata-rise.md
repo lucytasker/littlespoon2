@@ -1,5 +1,5 @@
 ---
-name: Paerata Rise; Light up the Town
+name: 'Paerata Rise: Light up the Town'
 subtitle: Event Collateral
 external_url:
 image_path: /uploads/lutt-2.jpg
