@@ -2,7 +2,7 @@
 name: Paerata Rise
 subtitle: Light up the Town
 external_url:
-image_path: /uploads/lutt.jpg
+image_path: /uploads/lutt-1.jpg
 ---
 
 Paerata Rise is a new build lifestyle community being developed between Karaka and Pukekohe. I was asked to design event collateral for their Christmas event 'Light up the Town'. This included an email campaign, cards, flyers, posters, advertisements for magazines, billboards, bus backs, event signage, tshirts and more.
