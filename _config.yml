@@ -11,14 +11,14 @@ description: Little Spoon Creative offers graphic design and copywriting solutio
 
 
 # Author details for the jekyll-seo-tag gem
-author:
-  name:
-  email:
+author: Lucy Tasker Graphic Design
+  name: Little Spoon Creative
+  email: info@littlespoon.co.nz
   twitter: # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
-social:
-  name: Little SPoon
+social: 
+  name: Little Spoon
   links:
 
 timezone: NZST
