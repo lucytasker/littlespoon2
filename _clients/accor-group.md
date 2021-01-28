@@ -2,7 +2,7 @@
 name: Accor Group
 subtitle: Restaurant & Bar Collateral
 external_url:
-image_path: /uploads/buffetmenu-1.jpg
+image_path: /uploads/buffetmenu-2.jpg
 ---
 
 I regularly freelance for the Accor group of hotels, for inhouse design such as menu design, posters advertising events, window decals etc. I also occasionally design for the Accor Group as a whole.
