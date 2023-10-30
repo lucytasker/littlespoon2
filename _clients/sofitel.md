@@ -1,6 +1,6 @@
 ---
 name: Sofitel
-subtitle: Window Decals
+subtitle: Window Decals & Brochures
 external_url:
 image_path: /uploads/20221215_111630.jpg
 ---
