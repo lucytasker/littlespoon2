@@ -9,9 +9,7 @@ I regularly freelance for the Accor group of hotels, for inhouse design such as 
 
 ![](/uploads/buffetmenu.jpg){: width="3000" height="2000"}
 
-Above: Christmas Day Menu for Novotel in Christchurch<br>Below: Set Menu for Sofitel
-
-![](/uploads/menu.jpg){: width="4000" height="2666"}
+Above: Christmas Day Menu for Novotel in Christchurch<br>
 
 Below: Poster Design for ibis Auckland Airport
 

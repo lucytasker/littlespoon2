@@ -15,6 +15,6 @@ Above: Wedding Invitation<br>Below: Physiotherapist Business Card Design
 
 Above: Themed wedding invitation<br>​​​​​​​Below: Honey Label
 
-![](/uploads/honey-jar.jpg){: width="4000" height="4000"}
+![](/uploads/honey-jar.jpg){: width="2000" height="2000"}
 
 &nbsp;
